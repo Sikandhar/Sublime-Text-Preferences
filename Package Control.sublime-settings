@@ -1,0 +1,22 @@
+{
+	"auto_upgrade_last_run": null,
+	"installed_packages":
+	[
+		"Alignment",
+		"Blade Snippets",
+		"BracketHighlighter",
+		"Comment-Snippets",
+		"DocBlockr",
+		"Dotfiles Syntax Highlighting",
+		"Gist",
+		"HTML Snippets",
+		"Laravel 4 Snippets",
+		"Package Control",
+		"Phpcs",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"Theme - Flatland",
+		"Theme - Soda"
+	]
+}
