@@ -1,4 +1,4 @@
-Sublime Text - User Preferences & Other Settings
-==============
+## Sublime Text 2 - User Preferences & Other Settings
 
-My Sublime Text user preferences &amp; other custom settings.
+
+My Sublime Text 2 user preferences &amp; packages control settings.
