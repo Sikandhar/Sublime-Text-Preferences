@@ -1,46 +1,46 @@
 {
-  "color_scheme": "Packages/Theme - Flatland/Flatland Monokai.tmTheme",
-  "auto_complete_commit_on_tab": true,
-  "bold_folder_labels": true,
-  "detect_slow_plugins": true,
-  "file_exclude_patterns":
-  [
-    ".DS_Store"
-  ],
-  "flatland_square_tabs": true,
-  "folder_exclude_patterns":
-  [
-    "bin",
-    ".git",
-    ".sass-cache",
-    ".svn",
-    ".hg",
-    "dist",
-    "tmp",
-    "wp-admin",
-    "wp-includes"
-  ],
-  "font_face": "Ubuntu Mono",
-  "font_options":
-  [
-    "no_bold",
-    "subpixel_antialias"
-  ],
-  "font_size": 16.0,
-  "highlight_line": true,
-  "highlight_modified_tabs": true,
-  "ignored_packages":
-  [
-    "Vintage"
-  ],
-  "line_padding_bottom": 3,
-  "line_padding_top": 3,
-  "open_files_in_new_window": false,
-  "scroll_past_end": true,
-  "soda_folder_icons": true,
-  "spell_check": true,
-  "tab_size": 4,
-  "translate_tabs_to_spaces": true,
-  "theme": "Soda Dark.sublime-theme",
-  "trim_trailing_white_space_on_save": true
+	"auto_complete_commit_on_tab": true,
+	"bold_folder_labels": true,
+	"color_scheme": "Packages/Theme - Flatland/Flatland Monokai.tmTheme",
+	"detect_slow_plugins": true,
+	"file_exclude_patterns":
+	[
+		".DS_Store"
+	],
+	"flatland_square_tabs": true,
+	"folder_exclude_patterns":
+	[
+		"bin",
+		".git",
+		".sass-cache",
+		".svn",
+		".hg",
+		"dist",
+		"tmp",
+		"wp-admin",
+		"wp-includes"
+	],
+	"font_face": "Ubuntu Mono",
+	"font_options":
+	[
+		"no_bold",
+		"subpixel_antialias"
+	],
+	"font_size": 16.0,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"line_padding_bottom": 3,
+	"line_padding_top": 3,
+	"open_files_in_new_window": false,
+	"scroll_past_end": true,
+	"soda_folder_icons": true,
+	"spell_check": true,
+	"tab_size": 4,
+	"theme": "Soda Dark.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true
 }
