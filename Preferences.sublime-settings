@@ -1,7 +1,7 @@
 {
+  "color_scheme": "Packages/Theme - Flatland/Flatland Monokai.tmTheme",
   "auto_complete_commit_on_tab": true,
   "bold_folder_labels": true,
-  "color_scheme": "Packages/Theme - Flatland/Flatland Monokai.tmTheme",
   "detect_slow_plugins": true,
   "file_exclude_patterns":
   [
@@ -39,8 +39,8 @@
   "scroll_past_end": true,
   "soda_folder_icons": true,
   "spell_check": true,
-  "tab_size": 2,
-  "theme": "Soda Dark.sublime-theme",
+  "tab_size": 4,
   "translate_tabs_to_spaces": true,
+  "theme": "Soda Dark.sublime-theme",
   "trim_trailing_white_space_on_save": true
 }
