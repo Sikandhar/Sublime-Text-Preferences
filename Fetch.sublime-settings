@@ -13,6 +13,7 @@
         "imagesLoaded"      : "https://raw.github.com/desandro/imagesloaded/master/jquery.imagesloaded.min.js",
         "impressjs"         : "https://github.com/bartaz/impress.js/raw/master/js/impress.js",
         "masonry"           : "https://raw.github.com/desandro/masonry/master/jquery.masonry.min.js",
+        "isotope"           : "https://raw.github.com/desandro/isotope/master/jquery.isotope.min.js",
 
         "normalize.css"     : "https://raw.github.com/necolas/normalize.css/master/normalize.css",
         "reset.css"         : "http://meyerweb.com/eric/tools/css/reset/reset.css"
