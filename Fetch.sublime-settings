@@ -34,6 +34,6 @@
         "datatables"        : "https://github.com/DataTables/DataTables",
         "jquery-mobile"     : "https://github.com/jquery/jquery-mobile/zipball/master",
         "jquery-ui"         : "https://github.com/jquery/jquery-ui/zipball/master",
-        "kickoff"           : "https://github.com/tmwagency/kickoff/zipball/master",
+        "kickoff"           : "https://github.com/tmwagency/kickoff/zipball/master"
 	}
 }
