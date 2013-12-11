@@ -1,39 +1,37 @@
 {
 	"files":
 	{
-		"jquery"            : "http://code.jquery.com/jquery.min.js",
-        "jquery-cookie"     : "https://raw.github.com/carhartl/jquery-cookie/master/jquery.cookie.js",
-        "jquery-dotimeout"  : "https://raw.github.com/cowboy/jquery-dotimeout/master/jquery.ba-dotimeout.min.js",
-
-        "underscore"        : "https://raw.github.com/documentcloud/underscore/master/underscore-min.js",
-        "prefixfree"        : "https://raw.github.com/LeaVerou/prefixfree/gh-pages/prefixfree.min.js",
-        "modernizr"         : "https://raw.github.com/Modernizr/Modernizr/master/modernizr.js",
-        "respond"           : "https://raw.github.com/keithclark/Respond/master/respond.min.js",
-        "selectivizr"       : "https://raw.github.com/keithclark/selectivizr/master/selectivizr.js",
-        "imagesLoaded"      : "https://raw.github.com/desandro/imagesloaded/master/jquery.imagesloaded.min.js",
-        "impressjs"         : "https://github.com/bartaz/impress.js/raw/master/js/impress.js",
-        "masonry"           : "https://raw.github.com/desandro/masonry/master/jquery.masonry.min.js",
-        "isotope"           : "https://raw.github.com/desandro/isotope/master/jquery.isotope.min.js",
-
-        "normalize.css"     : "https://raw.github.com/necolas/normalize.css/master/normalize.css",
-        "reset.css"         : "http://meyerweb.com/eric/tools/css/reset/reset.css"
+		"imagesLoaded": "https://raw.github.com/desandro/imagesloaded/master/jquery.imagesloaded.min.js",
+		"impressjs": "https://github.com/bartaz/impress.js/raw/master/js/impress.js",
+		"isotope": "https://raw.github.com/desandro/isotope/master/jquery.isotope.min.js",
+		"jquery": "http://code.jquery.com/jquery.min.js",
+		"jquery-cookie": "https://raw.github.com/carhartl/jquery-cookie/master/jquery.cookie.js",
+		"jquery-dotimeout": "https://raw.github.com/cowboy/jquery-dotimeout/master/jquery.ba-dotimeout.min.js",
+		"masonry": "https://raw.github.com/desandro/masonry/master/jquery.masonry.min.js",
+		"modernizr": "https://raw.github.com/Modernizr/Modernizr/master/modernizr.js",
+		"normalize.css": "https://raw.github.com/necolas/normalize.css/master/normalize.css",
+		"prefixfree": "https://raw.github.com/LeaVerou/prefixfree/gh-pages/prefixfree.min.js",
+		"reset.css": "http://meyerweb.com/eric/tools/css/reset/reset.css",
+		"respond": "https://raw.github.com/keithclark/Respond/master/respond.min.js",
+		"selectivizr": "https://raw.github.com/keithclark/selectivizr/master/selectivizr.js",
+		"underscore": "https://raw.github.com/documentcloud/underscore/master/underscore-min.js"
 	},
 	"packages":
 	{
-        "320 and up"        : "https://github.com/malarkey/320andup/zipball/master",
-		"bootstrap"         : "https://github.com/twitter/bootstrap/zipball/master",
-        "backbone"          : "https://github.com/documentcloud/backbone/zipball/master",
-        "foundation"        : "https://github.com/zurb/foundation/downloads/zipball/master",
-        "initializr"        : "https://github.com/verekia/initializr-template/zipball/master",
-        "fancybox"          : "http://fancybox.googlecode.com/files/jquery.fancybox-1.3.4.zip",
-        "html5-boilerplate" : "http://github.com/h5bp/html5-boilerplate/zipball/v2.0stripped",
-        "skeleton"          : "https://github.com/dhgamache/Skeleton/zipball/master",
-        "wordpress"         : "http://wordpress.org/latest.zip",
-        "wordpress-roots"   : "https://github.com/roots/roots/zipball/master",
-        "zoomooz"           : "http://github.com/jaukia/zoomooz/zipball/master",
-        "datatables"        : "https://github.com/DataTables/DataTables",
-        "jquery-mobile"     : "https://github.com/jquery/jquery-mobile/zipball/master",
-        "jquery-ui"         : "https://github.com/jquery/jquery-ui/zipball/master",
-        "kickoff"           : "https://github.com/tmwagency/kickoff/zipball/master"
+		"320 and up": "https://github.com/malarkey/320andup/zipball/master",
+		"backbone": "https://github.com/documentcloud/backbone/zipball/master",
+		"bootstrap": "https://github.com/twitter/bootstrap/zipball/master",
+		"datatables": "https://github.com/DataTables/DataTables",
+		"fancybox": "http://fancybox.googlecode.com/files/jquery.fancybox-1.3.4.zip",
+		"foundation": "https://github.com/zurb/foundation/downloads/zipball/master",
+		"html5-boilerplate": "http://github.com/h5bp/html5-boilerplate/zipball/v2.0stripped",
+		"initializr": "https://github.com/verekia/initializr-template/zipball/master",
+		"jquery-mobile": "https://github.com/jquery/jquery-mobile/zipball/master",
+		"jquery-ui": "https://github.com/jquery/jquery-ui/zipball/master",
+		"kickoff": "https://github.com/tmwagency/kickoff/zipball/master",
+		"skeleton": "https://github.com/dhgamache/Skeleton/zipball/master",
+		"wordpress": "http://wordpress.org/latest.zip",
+		"wordpress-roots": "https://github.com/roots/roots/zipball/master",
+		"zoomooz": "http://github.com/jaukia/zoomooz/zipball/master"
 	}
 }
