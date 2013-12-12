@@ -40,10 +40,10 @@
 	"scroll_past_end": true,
 	"soda_folder_icons": true,
 	"spell_check": true,
+	"tab_completion": false,
 	"tab_size": 4,
-    "tab_completion": false,
-    "word_wrap": true,
 	"theme": "Soda Dark.sublime-theme",
 	"translate_tabs_to_spaces": true,
-	"trim_trailing_white_space_on_save": true
+	"trim_trailing_white_space_on_save": true,
+	"word_wrap": true
 }
